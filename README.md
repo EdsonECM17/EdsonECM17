@@ -1,6 +1,6 @@
 # Hello There 👋
 
-I'm _Edson_Castañeda_. I'm a developer interested in Data Science and Artificial Intelligence.   
+I'm _Edson_ _Castañeda_. I'm a developer interested in Data Science and Artificial Intelligence.   
 
 
 I work as an IoT Engineer. In this job I have gained a lot of experience in how to extract and process data to visualize results. As a mechatronic engineer, I really like the integration of devices and programming.  
